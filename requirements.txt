@@ -8,3 +8,5 @@ packaging==26.0
 pycparser==3.0
 PyYAML==6.0.3
 resolvelib==1.0.1
+truenas_api_client @ git+https://github.com/truenas/api_client.git@8c59978c3bf6c4e38271363907ec46e9b7f10abf
+websocket-client==1.9.0
